@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Short-Form Video Generator (n8n + OpenAI + Flux + Kling + ElevenLabs)
+# 🤖 AI Video Generator with n8n
 
 > **EN:** An end-to-end n8n workflow that turns text ideas into short social videos.  
 > **TR:** Metin fikirlerini kısa sosyal videolara dönüştüren uçtan uca bir n8n iş akışı.
