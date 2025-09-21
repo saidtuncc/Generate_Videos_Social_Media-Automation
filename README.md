@@ -104,8 +104,4 @@ n8n • OpenAI API • PiAPI (Flux, Kling) • ElevenLabs API • Creatomate API
 **EN:** Add one idea to the Sheet → run workflow → check the Drive link for audio, captions, montage.  
 **TR:** Sheet’e bir fikir ekleyin → workflow’u çalıştırın → Drive linkindeki seste, başlıklarda ve montajda sorun var mı kontrol edin.
 
----
 
-## 📄 License / Lisans
-**EN:** Use a license that fits your needs (e.g., MIT). Respect terms of external APIs.  
-**TR:** İhtiyacınıza uygun bir lisans seçin (örn. MIT). Harici API’lerin kullanım şartlarına uyun.
